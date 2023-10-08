@@ -1,0 +1,31 @@
+body {
+    background-color: black;
+    color: white;
+}
+.image {
+    border-radius: 20%;
+}
+
+.description-container {
+    color: white;
+    font-weight: bold;
+}
+
+.ingredients-container {
+  
+    margin: 10px;
+}
+
+.steps-container {
+   
+}
+
+.title {
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
